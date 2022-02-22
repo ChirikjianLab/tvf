@@ -14,7 +14,7 @@ NVIDIA
 # Links
 - Arxiv
 - Supplementary
-- [Introductory Video](https://youtu.be/xCuYaw7_BNY)
+- Introductory Video
 - Code & Data: will be available upon publication
 
 # Introductory Video
