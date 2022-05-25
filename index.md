@@ -15,7 +15,7 @@ NVIDIA
 
 # Links
 - [Supplementary Material](./supplementary.pdf)
-- [Introductory Video](https://youtu.be/rHfLxpfXCM8)
+- [Introductory Video](https://youtu.be/XmXSKsFTcgI)
 
 # Introductory Video
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rHfLxpfXCM8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XmXSKsFTcgI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
