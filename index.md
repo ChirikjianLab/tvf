@@ -14,6 +14,7 @@ Department of Mechanical Engineering, National University of Singapore
 NVIDIA
 
 # Links
+- [Arxiv](https://arxiv.org/abs/2202.10765)
 - [Supplementary Material](./supplementary.pdf)
 - [Introductory Video](https://youtu.be/XmXSKsFTcgI)
 
